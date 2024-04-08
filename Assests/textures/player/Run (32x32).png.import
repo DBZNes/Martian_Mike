@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://bpjnbmxxg5c8j"
+path="res://.godot/imported/Run (32x32).png-39e4bb9a24c98509b7ae60e5db17958e.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Assests/textures/player/Run (32x32).png"
+dest_files=PackedStringArray("res://.godot/imported/Run (32x32).png-39e4bb9a24c98509b7ae60e5db17958e.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

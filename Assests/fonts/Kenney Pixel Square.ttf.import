@@ -1,0 +1,15 @@
+[remap]
+
+importer="font_data_dynamic"
+type="FontFile"
+uid="uid://crlmgefjgqwkp"
+path="res://.godot/imported/Kenney Pixel Square.ttf-6dde3bd3c5f27bc09afaf12d299e9374.fontdata"
+
+[deps]
+
+source_file="res://Assests/fonts/Kenney Pixel Square.ttf"
+dest_files=PackedStringArray("res://.godot/imported/Kenney Pixel Square.ttf-6dde3bd3c5f27bc09afaf12d299e9374.fontdata")
+
+[params]
+
+dummy_value_ignore_me=0

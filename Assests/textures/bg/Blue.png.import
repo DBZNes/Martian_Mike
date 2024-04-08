@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://j6ykdviunr6k"
+path="res://.godot/imported/Blue.png-7013377d58c9b2c0db6577d9e3ca6e72.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Assests/textures/bg/Blue.png"
+dest_files=PackedStringArray("res://.godot/imported/Blue.png-7013377d58c9b2c0db6577d9e3ca6e72.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

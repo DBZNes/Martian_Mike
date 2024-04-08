@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://xpar4g2m214e"
+path="res://.godot/imported/Gray.png-4b223b38769a7fea266b324b7121326b.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Assests/textures/bg/Gray.png"
+dest_files=PackedStringArray("res://.godot/imported/Gray.png-4b223b38769a7fea266b324b7121326b.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

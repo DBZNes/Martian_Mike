@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://doq4lj7mbcfyt"
+path="res://.godot/imported/End (Pressed) (64x64).png-81b1e2891c29bb4bb4e90e4012e321f1.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Assests/textures/other/End (Pressed) (64x64).png"
+dest_files=PackedStringArray("res://.godot/imported/End (Pressed) (64x64).png-81b1e2891c29bb4bb4e90e4012e321f1.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

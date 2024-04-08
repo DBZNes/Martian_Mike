@@ -1,0 +1,16 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b0jp0tcplv53r"
+path="res://.godot/imported/jump.wav-450d57bc3072f560b528ef9fb70e0a74.sample"
+
+[deps]
+
+source_file="res://Assests/audio/jump.wav"
+dest_files=PackedStringArray("res://.godot/imported/jump.wav-450d57bc3072f560b528ef9fb70e0a74.sample")
+
+[params]
+
+dummy_value_ignore_me=0
+compress/mode=0

@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://b6ovhskjgc0kx"
+path="res://.godot/imported/Saw.png-52eaccf1dc849eb6130a13eac4215906.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Assests/textures/other/Saw.png"
+dest_files=PackedStringArray("res://.godot/imported/Saw.png-52eaccf1dc849eb6130a13eac4215906.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

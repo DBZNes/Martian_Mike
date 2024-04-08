@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://32xrgb17wmil"
+path="res://.godot/imported/Fall (32x32).png-6634c62b37ba252af12f4b20d3f65dfe.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Assests/textures/player/Fall (32x32).png"
+dest_files=PackedStringArray("res://.godot/imported/Fall (32x32).png-6634c62b37ba252af12f4b20d3f65dfe.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

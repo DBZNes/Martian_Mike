@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://ymbv5xg0t6qf"
+path="res://.godot/imported/Idle.png-bdd02e98cdcff36e27a4e5a851c0286b.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Assests/textures/other/Idle.png"
+dest_files=PackedStringArray("res://.godot/imported/Idle.png-bdd02e98cdcff36e27a4e5a851c0286b.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

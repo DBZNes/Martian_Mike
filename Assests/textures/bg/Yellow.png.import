@@ -1,0 +1,18 @@
+[remap]
+
+importer="texture"
+type="CompressedTexture2D"
+uid="uid://dmrody80kn35i"
+path="res://.godot/imported/Yellow.png-b4f2b12ec663fb5cf2962eda115d5966.ctex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://Assests/textures/bg/Yellow.png"
+dest_files=PackedStringArray("res://.godot/imported/Yellow.png-b4f2b12ec663fb5cf2962eda115d5966.ctex")
+
+[params]
+
+dummy_value_ignore_me=0

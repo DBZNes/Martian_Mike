@@ -1,0 +1,15 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://buf1s7b3q0d1e"
+path="res://.godot/imported/music.ogg-045be245bdb8ff12dad56d4657a3d5bf.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assests/audio/music.ogg"
+dest_files=PackedStringArray("res://.godot/imported/music.ogg-045be245bdb8ff12dad56d4657a3d5bf.oggvorbisstr")
+
+[params]
+
+dummy_value_ignore_me=0
